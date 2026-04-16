@@ -150,4 +150,4 @@ Exemplo de erro:
 - [ ] Implementar processamento assíncrono para arquivos longos usando Filas (RabbitMQ/Kafka).
 
 ---
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por Kensyto
