@@ -142,7 +142,7 @@ Exemplo de erro:
 
 ---
 
-## 🔮 Melhorias Futuras
+##  Melhorias Futuras
 
 - [ ] Implementar suporte para múltiplos idiomas simultâneos.
 - [ ] Adicionar persistência em banco de dados para histórico de transcrições.
